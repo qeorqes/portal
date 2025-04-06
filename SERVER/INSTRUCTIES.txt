@@ -11,6 +11,6 @@ FRIENDS
 	map met vrienden van [user].
 	> [user].txt
 
-voor elke nieuwe gebruiker wordt er natuurlijk een nieuwe [user].txt of respectievelijke map aangemaakt.
+voor elke nieuwe gebruiker wordt er natuurlijk een nieuwe [user].txt en respectievelijke map aangemaakt.
 
 in deze SERVER map is er een voorbeeld gegeven met gebruikersnaam test123 van hoe dat eruitziet.
