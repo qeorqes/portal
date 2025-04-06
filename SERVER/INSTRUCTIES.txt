@@ -1,0 +1,16 @@
+De server werkt als volgt:
+
+FRIENDS_PENDING
+	bestand met lijst van users van wie [user] een vriendschapsverzoek heeft ontvangen.
+	> [user].txt
+FILES
+	map met bestanden die [user] heeft verzonden.
+	> [user]
+		> file.ext
+FRIENDS
+	map met vrienden van [user].
+	> [user].txt
+
+voor elke nieuwe gebruiker wordt er natuurlijk een nieuwe [user].txt of respectievelijke map aangemaakt.
+
+in deze SERVER map is er een voorbeeld gegeven met gebruikersnaam test123 van hoe dat eruitziet.
